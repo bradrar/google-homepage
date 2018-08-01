@@ -6,3 +6,5 @@ A repository to demonstrate:
 4. Create a .html file.
 5. Create a .css file.
 6. Create a webpage that looks like the Google Homepage.
+
+To view the webpage. Go here : https://bradrar.github.io/google-homepage/. 
